@@ -8,7 +8,7 @@
 
 from importlib import reload
 import json
-import comic_convert as cc
+import place_convert as cc
 
 def rr():
     reload(cc)
